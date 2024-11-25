@@ -7,27 +7,27 @@ const DUMMY_MEALS = [
     id: 1,
     name: "Paneer Butter Masala",
     description: "Cottage cheese cooked in a rich tomato-based creamy curry.",
-    price: 250,
+    price: 25,
   },
   {
     id: 2,
     name: "Veg Biryani",
     description:
       "Aromatic basmati rice cooked with mixed vegetables and spices.",
-    price: 180,
+    price: 18,
   },
   {
     id: 3,
     name: "Aloo Gobi",
     description:
       "A simple and flavorful dish of potatoes and cauliflower cooked with Indian spices.",
-    price: 150,
+    price: 15,
   },
   {
     id: 4,
     name: "Matar Paneer",
     description: "Cottage cheese and green peas in a spiced tomato gravy.",
-    price: 200,
+    price: 20,
   },
   {
     id: 5,
